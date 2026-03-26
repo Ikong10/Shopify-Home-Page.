@@ -18,7 +18,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 22px 48px;
-  background-color: white;
+  background-color: rgb(221, 163, 16);
   position: fixed;
   width: 100%;
   margin: 0 auto;
@@ -141,7 +141,7 @@ header p {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 25px;
   color: grey;
 }
 
